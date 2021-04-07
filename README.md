@@ -9,7 +9,7 @@ Before I'll agree to a speaking event, I try to do as much research I can around
 **AbbasAtaieMontazer/AbbasAtaieMontazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on Blue Bit Networking Services Located in Kabul
+- 🔭 I’m currently working at Blue Bit Networking Services Located in Kabul
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with Machine Learning
